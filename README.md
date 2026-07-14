@@ -29,6 +29,3 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 - If you like to install Gapps, reboot to recovery again and then install it first. RW is in Advends. After it is installed, just install Gapps.zip
 
   # **MORE INFORMATIONS**
-  
-  # **DONATION**
-  GIVE ME COFFEE [BANG LEVV](https://sociabuzz.com/banglevv/posts).
