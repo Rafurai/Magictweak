@@ -31,4 +31,4 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
   # **MORE INFORMATIONS**
 **Telegram**
 
-   [<img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Join/web/subscribe/Telegram_logo.png" width="55px" />](https://t.me/RafuraiOfficial)
+   [<img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Web/Subscribe/Telegram_logo.png" width="57px" />](https://t.me/RafuraiOfficial)
