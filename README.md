@@ -1,9 +1,9 @@
 
 ## **Custom rom On Samsung Galaxy A11/M11**
-> youtube channel [bang levv](https://www.youtube.com/c/BANGLEvV).
+> 
 
 ## **💸 Donations**
-> You can get magic vip here [magic vip](https://sociabuzz.com/banglevv/c/57049/magic-vip).
+> <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Donate/Indonesian/Dana%20or%20Indonesian.jpg" width="300px" />
 
 ## **DOWNLOAD MAGIC TWEAK**
 - [MAGIC TWEAK FREE](https://shrinkme.site/AuNTd).
