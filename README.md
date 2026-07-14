@@ -29,3 +29,6 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 - If you like to install Gapps, reboot to recovery again and then install it first. RW is in Advends. After it is installed, just install Gapps.zip
 
   # **MORE INFORMATIONS**
+**Telegram**
+
+   [<img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Join/web/subscribe/Telegram_logo.png" width="55px" />](https://t.me/RafuraiOfficial)
