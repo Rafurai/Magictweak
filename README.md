@@ -1,8 +1,8 @@
-![20240410_165739](https://github.com/banglevv20/Magictweak/assets/100755943/3405459e-30d6-492f-b08f-9e58a1774796)
-## **YOUTUBE CHANNEL**
+
+## **Custom rom On Samsung Galaxy A11/M11**
 > youtube channel [bang levv](https://www.youtube.com/c/BANGLEvV).
 
-## **MAGIC VIP HERE**
+## **💸 Donations**
 > You can get magic vip here [magic vip](https://sociabuzz.com/banglevv/c/57049/magic-vip).
 
 ## **DOWNLOAD MAGIC TWEAK**
