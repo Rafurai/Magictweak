@@ -1,6 +1,6 @@
 
 ## **Custom rom Pada Samsung Galaxy A11/M11**
-> English|Indonesia
+> [English](https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/LICENSE)|Indonesia
 
 ## **💸 Donations**
 > <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Donate/Indonesian/Dana%20or%20Indonesian.jpg" width="300px" />
