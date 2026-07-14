@@ -6,42 +6,12 @@
 > <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Donate/Indonesian/Dana%20or%20Indonesian.jpg" width="300px" />
 
 ## **Device a11q / m11q**
-- [MAGIC TWEAK FREE](https://shrinkme.site/AuNTd).
-- [TUTORIAL](https://www.youtube.com/watch?v=Q91DE9Z5EtE).
+> <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Device/a11q.png" width="300px" /><img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Device/m11q.png" width="300px" />
+
 
   
-# **MAGIC TWEAK**
-magic tweak is an all in one optimizer for root and non root android devices. By using Magic Tweak, you can change the kernel compilation, graphic type and even activate game mode on your Android device without having to root it.
-
-# **HOW IS WORK**
-Magic Tweaks Menggunakan Kode `GAME_OVERLAY`, `DEVICES_CONFIG`, `CMD POWER` so that code can be installed on the Android device.
-`devices_config` will call the Android database and change the values ​​in it.
-- examples that you can use `device_config put game_overlay <packagegame> mode=2,angle=<value>,downscaleFactor=<calue>,fps=<value>:mode=3,angle=<value>,downscaleFactor=<value>,fps=value`
-- `cmd game mode performance [standart/batterysaver/performance`
-- `cmd package compile <value> <mode> <value> <packagename>`
-
-  ![Screenshot 2024-04-10 18-18-11](https://github.com/banglevv20/Magictweak/assets/100755943/3cb13171-e656-4f38-9802-f251c2d00cad)
-
-
-# **FEATURES**
-features in Magic Tweak are very complete, especially for game optimization. You can change graphic to be lower or even higher. You also enable high frame rate mode in the game dashboard settings. For other features you can see below:
-- config game dashboard for android
-- 4 type android runtime optimizer
-- Enable game mode Android
-- graphic settings
-- FPS stabilizer
-- 5 rendering supported
-- daily optimizer
-- internet speed
-- unrestricted game settings
-- Main Tweaks
-- Gpu Performance (root only)
-- thermal services
-- RAM Optimizer
-- Cache Cleaner
-- DPI Custom
-- GMS Doze
-- many more...
+# **Supported ABIs**
+armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 
 # **IMPORTANT**
 1. recquires Android 10 and up.
@@ -49,15 +19,16 @@ features in Magic Tweak are very complete, especially for game optimization. You
 3. Supported ART Compiler
 
 # **HOW TO INSTALL**
-- download magic tweaks (check on package release)
-- extract magic tweaks and move to internal sotrage
-- rename magic tweaks folder to MAGIC
-- open brevent app and use exec command line
-- use this command to running files `sh /pathfiles/namefiles.sh` `enter`
-- you can execute all files On magic tweaks With according to your comfort
+- download Rom.zip (check on package release)
+- move the rom.zip file to the SD card
+- after completion, move to the next stage
+- Enter recovery mode like Twrp and others 
+- If you are already in Recovery, continue to the wipe stage.
+- just type wipe and format data type "yes" wipe ✅dalvik-cache ✅cache if the data is the same as internal storage, it's also fine
+- Install, search for the storage that has been installed. Install Rom.zip. After it has been installed, a red error appears such as odm, product, system, vendor, it has worked.
+- If you like to install Gapps, reboot to recovery again and then install it first. RW is in Advends. After it is installed, just install Gapps.zip
 
   # **MORE INFORMATIONS**
-  For further information, you can visit our YouTube channel at [bang levv](https://www.youtube.com/c/BANGLEvV). Don't forget to provide feedback about this file, your support will make this work continue.
-
+  
   # **DONATION**
   GIVE ME COFFEE [BANG LEVV](https://sociabuzz.com/banglevv/posts).
