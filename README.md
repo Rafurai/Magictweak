@@ -6,7 +6,7 @@
 > <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Donate/Indonesian/Dana%20or%20Indonesian.jpg" width="300px" />
 
 ## **Device a11q / m11q**
-> <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Device/a11q.png" width="300px" /><img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Device/m11q.png" width="300px" />
+> [<img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Device/a11q.png" width="300px" />](https://m.gsmarena.com/samsung_galaxy_a11-10132.php)[<img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Device/m11q.png" width="300px" />](https://m.gsmarena.com/samsung_galaxy_m11-10124.php)
 
 
   
