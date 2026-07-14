@@ -5,7 +5,7 @@
 ## **💸 Donations**
 > <img src="https://github.com/Rafurai/Custom-Rom-Qualcomm-SDM450-for-a11q-m11q/blob/main/Donate/Indonesian/Dana%20or%20Indonesian.jpg" width="300px" />
 
-## **DOWNLOAD MAGIC TWEAK**
+## **Device a11q / m11q**
 - [MAGIC TWEAK FREE](https://shrinkme.site/AuNTd).
 - [TUTORIAL](https://www.youtube.com/watch?v=Q91DE9Z5EtE).
 
